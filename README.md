@@ -185,7 +185,7 @@ The expectation is a project comparable in scope to a small production-ready app
    - The project is structured through a series of milestones.  
    - These milestones are a major component of your grade and track your progress from idea to final system.  
    - **MS2, MS3, and MS4 are evaluated through a 15-minute team presentation (with slides) to your assigned project TF**, held during your regular weekly TF meeting. The TF will ask questions of the team and of individual students, covering both the slides and the contents of your GitHub repository. Every team member must be prepared to answer questions on **all** elements of the project — there is no "I didn't do that part." If you cannot speak to a component, that component is not considered learned, regardless of who wrote the code.
-   - MS1 is submitted as a written proposal; MS5 is evaluated through the GitHub repository, final video, blog post, and the Dec 10 showcase.
+   - MS1 is submitted as a written proposal; MS5 is evaluated through the GitHub repository, final video, blog post, and the Dec 14 showcase.
    - Details for each milestone will be provided during the semester.
 
 **In summary:**  
@@ -255,7 +255,7 @@ Some details to consider:
 
 - **Lecture recordings**: Lectures will be recorded and available to everyone within 24 hours. 
 - **No in-class midterm/final**: There is no in-class midterm or final exam.
-- **Showcase**: The main end-of-term in-person requirement is the project showcase (currently scheduled for **Dec 10**, subject to change).
+- **Showcase**: The main end-of-term in-person requirement is the project showcase (currently scheduled for **Dec 14**, subject to change).
 - **Quizzes**: In person. There is no online version and no make-ups.
 
 #### DCE Students

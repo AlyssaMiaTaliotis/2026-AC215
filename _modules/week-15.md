@@ -2,10 +2,10 @@
 title: Week 15 - Projects
 ---
 
-Dec 10
+Dec 14
 : ⭐ Showcase
 
-Dec 11
+Dec 15
 : Project Deliverables Due
 
-    [**MS5 due 12/11**](){: .label .label-red }
+    [**MS5 due 12/15**](){: .label .label-red }

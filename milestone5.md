@@ -9,8 +9,8 @@ nav_order: 5
 
 ### Key Dates
 
-- **Due:** 12/11
-- **Showcase:** 12/10
+- **Due:** 12/15
+- **Showcase:** 12/14
 
 ---
 
@@ -89,7 +89,7 @@ Submit the video in **MP4 format** with a minimum resolution of 720p.
 
 - Complete self-assessment and peer evaluation forms to provide feedback on team contributions.
 
-#### 5. Showcase (Dec 10th)
+#### 5. Showcase (Dec 14th)
 
 - **Event format:** Each team will have **1 hour** during the live showcase to present their project (this is your assigned booth time slot for receiving visitors, not a 1-hour presentation). Participants will visit your booth to interact with your application and learn about your implementation. Monitors will be provided to most teams; additional equipment must be arranged by the team.
 - **App requirements:** The app must be fully functional and hosted on **Google Cloud Platform (GCP)** or **AWS**, accessible via a public URL. Include a **QR code** linking to your application.
@@ -99,7 +99,7 @@ Submit the video in **MP4 format** with a minimum resolution of 720p.
 
 ### Submission Instructions
 
-- Submit all deliverables (GitHub repository link, video file, blog post link, and self/peer review forms) via the course submission portal by **10:00 PM ET, December 11th**.
+- Submit all deliverables (GitHub repository link, video file, blog post link, and self/peer review forms) via the course submission portal by **10:00 PM ET, December 15th**.
 - No late submissions.
 
 ---
