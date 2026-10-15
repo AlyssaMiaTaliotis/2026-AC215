@@ -61,7 +61,7 @@ Build a reproducible, containerized pipeline and establish practical data manage
 
 #### 5. Application Mock-up
 
-- Submit a simple working app skeleton or clickable mock-up (can be minimal; basic UI with placeholder functionality is acceptable).
+- Submit an application mock-up/wireframe and a minimal working app skeleton showing basic UI and backend interaction. Placeholder functionality is acceptable for features beyond this basic interaction.
 - Refine or extend the Milestone 1 design based on feedback and what you learned during implementation.
 
 ---
@@ -109,7 +109,24 @@ All deliverables must be submitted via GitHub (**milestone2** branch); submit th
 
 This milestone is evaluated through a **15-minute team presentation (with slides) to your assigned project TF**, held during your regular weekly TF meeting.
 
-- **Format:** 15 minutes of team-led presentation, followed by Q&A from the TF.
+- **Format:** A 10–15-minute team presentation, approximately 10 minutes of group Q&A, and approximately five minutes per student for individual checks. Individual checks take place separately in a breakout room and include approximately 3–4 questions. You may navigate your repository; we assess understanding rather than memorized syntax.
 - **Q&A scope:** The TF will ask questions of the team **and of individual members**, covering both the slides and the details of your GitHub repository (code, configs, infrastructure, tests, design choices).
 - **Shared accountability:** Every team member must be prepared to answer questions on **all** parts of the project. "I didn't do that part" is not an acceptable answer. Divide the labor however you choose — but the *understanding* must be shared across the entire team.
 - **Slides:** Bring slides that walk through what you built, why, and what's next. Be ready to navigate to specific files in your repository when asked.
+- **Preparation:** Be ready to explain your contribution, walk through how to run a component, explain other parts of the project—including AI-assisted code—and discuss technical choices, testing, and debugging. Where applicable, explain how your containers access cloud resources and receive credentials without displaying secret values.
+
+---
+
+### Grading Rubric
+
+Each student receives a score out of **10 points**. Partial credit is available for incomplete but correct work.
+
+| Category | Points | What we assess |
+|---|---:|---|
+| GitHub repository (shared) | 2 | Organization, reproducibility, working deliverables, and collaboration |
+| Presentation (shared) | 2 | Clear explanation of progress, technical choices, results, and next steps |
+| Group Q&A (shared) | 2 | Team understanding of progress, system design, tradeoffs, and plans |
+| Individual Q&A | 3 | Understanding of your contribution, the wider project, and technical reasoning |
+| Overall execution / flair (shared) | 1 | Coherent execution and useful improvements beyond the required scope |
+| **Total** | **10** | |
+
