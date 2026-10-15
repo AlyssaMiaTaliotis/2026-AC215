@@ -28,7 +28,7 @@ By the end, each team should have the required components in place and an **init
 
 ### Template Repository
 
-**[dlops-io/project-setup-template](https://github.com/dlops-io/project-setup-template)**
+**[dlops-io/project-setup-template](https://github.com/dlops-io/project-setup-template/tree/milestone2)**
 
 ---
 
