@@ -5,6 +5,6 @@ description: Listing of Project Showcase Information.
 nav_order: 7
 ---
 
+## AC215 Project Showcase
 
-##  AC215 Project Showcase 
-TBD
+Coming soon.
